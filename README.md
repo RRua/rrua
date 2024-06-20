@@ -27,19 +27,19 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
   <summary><b>⚡ Github Stats (Public repositories)</b></summary>
 
   <br />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrua&theme=transparent"/>
+      <p align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrua&theme=transparent"/>
+      </p>
 </details>
 
 
 
 <details>
   <summary><b>⚡ Read a cheesy joke</b></summary>
-
   <br />
     <p align="center">
-   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
-
+       <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    </p>
 </details>
 
 
